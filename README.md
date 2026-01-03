@@ -47,15 +47,15 @@ Secure-Image-Steganography/
 ├── core/
 │   └── Steganography.java
 │
+├── screenshots/
+│   └── Application output images
+│
 ├── ui/
 │   └── Main.java
 │
 ├── util/
 │   ├── CryptoUtils.java
 │   └── ValidationUtils.java
-│
-├── screenshots/
-│   └── Application output images
 │
 └── README.md
 
